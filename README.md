@@ -1,7 +1,7 @@
 # Front-End Task: Greatest Common Factor
 
 
-Flick-Pick:A simple react app to fetch and display movie cards from the given API
+Flick-Pick:A simple react app to fetch and display movie cards and movie information.
 
   
 
